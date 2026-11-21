@@ -1,0 +1,6 @@
+{
+  "name": "SMART HALAL CAMPUS MART",
+  "description": "Sistem informasi katalog produk UMKM tersertifikasi halal, profil produsen, dan QR Code oleh Prodi Bisnis Digital Universitas Komputama Cilacap (UNIKMA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
